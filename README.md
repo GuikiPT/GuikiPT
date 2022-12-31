@@ -31,7 +31,7 @@
 <hr/>
 <div align="center">
     <p>
-        I'm Luis Freitas (but everyone call me Guiki), from <img src="https://cdn-icons-png.flaticon.com/512/197/197463.png" width="15">. I'm 19 years old, and I ended up completing school with secondary education.
+        I'm Luis Freitas (but everyone call me Guiki), from <img src="https://cdn-icons-png.flaticon.com/512/197/197463.png" width="15">. I'm 19 years old, and I finished school with secondary education.
     </p>
     <p>
         <img src="https://discord.c99.nl/widget/theme-3/926914230924509264.png" />
