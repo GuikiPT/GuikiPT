@@ -1,13 +1,14 @@
 <div align="center">
     <img src="https://pa1.narvii.com/6481/2b3b71d33f5f4fb0c8200dec691b006c4e8da900_hq.gif" alt="GuikiPT Suicune Banner">
 </div>
-<br>
-<div align="center" style="font-size: 2em;">
+<br />
+<div align="center" style="font-size: 3em;">
     <b>
     <img src="https://cdn.discordapp.com/emojis/592289144978407434.gif?size=1024&quality=high" width="30"/>
     Hey! Nice to see you.
     </b>
 </div>
+<br />
 <div align="center">
     <p>
             <a href="https://www.twitter.com/its_GuikiPT">
@@ -43,7 +44,7 @@
             What I've coded/used all these years (Including a few bits I've coded) ?
             </b>
         </div>
-        <br>
+        <br />
         <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="25">
         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="25">
         <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="25">
