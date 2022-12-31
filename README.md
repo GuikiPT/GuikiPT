@@ -37,6 +37,8 @@
         <img src="https://discord.c99.nl/widget/theme-3/926914230924509264.png" />
     </p>
     <p>
+        I like listen music, gaming chilling with some rages, code, and watch my fav Youtuber's.
+    <p>
         I learned how to develop websites in PHP (although I left that language to the past), but currently I program in NodeJS, a bit of Python + XML for addons related to creating websites in <a href="https://github.com/odoo/odoo" target="_blank">Odoo</a> to my job.
 </div>
 <hr/>
@@ -104,16 +106,22 @@
         <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" height="25">
         <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" height="25">
         <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" height="25">
-        <img src="" height="25">
-        <img src="" height="25">
-        <img src="" height="25">
-        <img src="" height="25">
-        <img src="" height="25">
-        <img src="" height="25">
-        <img src="" height="25">
-        <img src="" height="25">
-        <img src="" height="25">
-        <img src="" height="25">
-        <img src="" height="25">
+    </p>
+</div>
+<br />
+<div align="center">
+    <p>
+        <h2>
+            <b>
+                My GitHub Status
+            </b>
+        </h2>
+    </p>
+    <p>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuikiPT&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+        <br />
+        <br />
+        <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GuikiPT&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> -->
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuikiPT&theme=tokyonight" alt="mystreak"/>
     </p>
 </div>
