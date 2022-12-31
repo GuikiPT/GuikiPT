@@ -2,11 +2,13 @@
     <img src="https://pa1.narvii.com/6481/2b3b71d33f5f4fb0c8200dec691b006c4e8da900_hq.gif" alt="GuikiPT Suicune Banner">
 </div>
 <br />
-<div align="center" style="font-size: 3em;">
-    <b>
-    <img src="https://cdn.discordapp.com/emojis/592289144978407434.gif?size=1024&quality=high" width="30"/>
-    Hey! Nice to see you.
-    </b>
+<div align="center">
+    <h1>
+        <b>
+            <img src="https://cdn.discordapp.com/emojis/592289144978407434.gif?size=1024&quality=high" width="30"/>
+            Hey! Nice to see you.
+        </b>
+    </h1>
 </div>
 <br />
 <div align="center">
