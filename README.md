@@ -3,7 +3,7 @@
 </div>
 <br />
 <div align="center">
-    <h1>
+    <h1 style="border-bottom: none">
         <b>
             <img src="https://cdn.discordapp.com/emojis/592289144978407434.gif?size=1024&quality=high" width="30"/>
             Hey! Nice to see you.
