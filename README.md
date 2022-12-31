@@ -26,6 +26,7 @@
             </a>
     </p>
 </div>
+<hr/>
 <div align="center">
     <p>
         I'm Luis Freitas (but everyone call me Guiki), from <img src="https://cdn-icons-png.flaticon.com/512/197/197463.png" width="15">. I'm 19 years old, and I ended up completing school with secondary education.
@@ -33,6 +34,7 @@
     <p>
         I learned how to develop websites in PHP (although I left that language to the past), but currently I program in NodeJS, a bit of Python + XML for addons related to creating websites in <a href="https://github.com/odoo/odoo" target="_blank">Odoo</a> to my job.
 </div>
+<hr/>
 <div align="center">
     <p>
         <h2>What I've coded/used all these years (Including a few bits I've coded) ?</h2>
