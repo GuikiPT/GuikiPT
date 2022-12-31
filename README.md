@@ -1,7 +1,6 @@
 <div align="center">
     <img src="https://pa1.narvii.com/6481/2b3b71d33f5f4fb0c8200dec691b006c4e8da900_hq.gif" alt="GuikiPT Suicune Banner">
 </div>
-<br />
 <div align="center">
     <h1 style="border-bottom: none">
         <b>
@@ -10,7 +9,6 @@
         </b>
     </h1>
 </div>
-<br />
 <div align="center">
     <p>
             <a href="https://www.twitter.com/its_GuikiPT">
