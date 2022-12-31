@@ -84,7 +84,7 @@
         <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" height="25">
     </p>
 </div>
-<br />
+<hr/>
 <div align="center">
     <p>
         <div style="font-size: 1.5em">
@@ -108,6 +108,8 @@
         <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" height="25">
     </p>
 </div>
+<hr/>
+
 <div align="center">
     <p>
         <div style="font-size: 1.5em">
@@ -121,6 +123,7 @@
         <br />
         <br />
         <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GuikiPT&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuikiPT&theme=tokyonight" alt="mystreak"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuikiPT&theme=algolia" alt="mystreak"/>
     </p>
 </div>
+<hr/>
