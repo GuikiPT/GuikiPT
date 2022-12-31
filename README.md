@@ -34,12 +34,13 @@
         I'm Luis Freitas (but everyone call me Guiki), from <img src="https://cdn-icons-png.flaticon.com/512/197/197463.png" width="15">. I'm 19 years old, and I finished school with secondary education.
     </p>
     <p>
+        I like listen music, gaming chilling with some rages, code, and watch my fav Youtuber's. Also I'm very active on discord, being an administrator of several discord servers and also of several YouTube channels to.
+    <p>
         <img src="https://discord.c99.nl/widget/theme-3/926914230924509264.png" />
     </p>
     <p>
-        I like listen music, gaming chilling with some rages, code, and watch my fav Youtuber's.
-    <p>
         I learned how to develop websites in PHP (although I left that language to the past), but currently I program in NodeJS, a bit of Python + XML for addons related to creating websites in <a href="https://github.com/odoo/odoo" target="_blank">Odoo</a> to my job.
+    </p>
 </div>
 <hr/>
 <div align="center">
