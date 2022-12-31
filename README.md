@@ -1,11 +1,12 @@
 <div align="center">
     <img src="https://pa1.narvii.com/6481/2b3b71d33f5f4fb0c8200dec691b006c4e8da900_hq.gif" alt="GuikiPT Suicune Banner">
 </div>
-<div align="center">
-    <h1>
-        <img src="https://cdn.discordapp.com/emojis/592289144978407434.gif?size=1024&quality=high" width="30"/>
-            Hey! Nice to see you.
-    </h1>
+<br>
+<div align="center" style="font-size: 2em;">
+    <b>
+    <img src="https://cdn.discordapp.com/emojis/592289144978407434.gif?size=1024&quality=high" width="30"/>
+    Hey! Nice to see you.
+    </b>
 </div>
 <div align="center">
     <p>
@@ -37,7 +38,12 @@
 <hr/>
 <div align="center">
     <p>
-        <h2>What I've coded/used all these years (Including a few bits I've coded) ?</h2>
+        <div style="font-size: 1.5em">
+            <b>
+            What I've coded/used all these years (Including a few bits I've coded) ?
+            </b>
+        </div>
+        <br>
         <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="25">
         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="25">
         <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="25">
