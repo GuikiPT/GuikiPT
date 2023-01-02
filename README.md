@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://pa1.narvii.com/6481/2b3b71d33f5f4fb0c8200dec691b006c4e8da900_hq.gif" alt="GuikiPT Suicune Banner">
+    <img src="https://pa1.narvii.com/6481/2b3b71d33f5f4fb0c8200dec691b006c4e8da900_hq.gif" alt="GuikiPT Suicune Banner" width="100%">
 </div>
 <div align="center">
     <h1 style="border-bottom: none">
