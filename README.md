@@ -31,7 +31,7 @@
 <hr/>
 <div align="center">
     <p>
-        I'm Luis Freitas (but everyone call me Guiki), from <img src="https://cdn-icons-png.flaticon.com/512/197/197463.png" width="15">. I'm 19 years old, and I finished school with secondary education.
+        I'm Luis Freitas (but everyone call me Guiki), from <img src="https://cdn-icons-png.flaticon.com/512/197/197463.png" width="15">. I'm 20 years old, and I finished school with secondary education.
     </p>
     <p>
         I like listen music, gaming chilling with some rages, code, and watch my fav Youtuber's. Also I'm very active on discord, being an administrator of several discord servers and also of several YouTube channels to.
