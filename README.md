@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/GuikiPT/GuikiPT/refs/heads/main/images/azy.jpg" alt="GuikiPT Suicune Banner" width="100%">
+    <img src="https://github.com/GuikiPT/GuikiPT/blob/main/images/guikipt-high-resolution-logo-transparent%20(1).png?raw=true" alt="GuikiPT Suicune Banner" width="100%">
 </div>
 
 <div align="center">
