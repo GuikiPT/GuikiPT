@@ -145,7 +145,7 @@
     alt="my Github Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=GuikiPT&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=GuikiPT&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed"
     alt="most used languages"
   />
 </div>
