@@ -150,4 +150,9 @@
   />
 </div>
 <div>
-<img src="https://github-profile-trophy.vercel.app/?username=GuikiPT&theme=juicyfresh&no-bg=true" /></div>
+<div>
+    <img src="https://github-profile-trophy.vercel.app/?username=GuikiPT&theme=juicyfresh&no-bg=true" /></div>
+</div>
+
+
+<hr>
