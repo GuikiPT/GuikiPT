@@ -1,0 +1,33 @@
+Terms of Service — GuikiPT Bots
+Effective Date: October 17, 2025​
+Scope: These Terms apply to any Discord application or automation owned and operated by GuikiPT that runs on the Discord platform (collectively, “Bots”).​
+
+Acceptance: By inviting or using any GuikiPT Bot, you agree to these Terms, Discord’s Terms of Service, and Discord’s Community Guidelines.​
+
+Eligibility: You must meet Discord’s minimum age and regional eligibility requirements to use Discord and any GuikiPT Bot.​
+
+Platform rules: Your use of the Bots must comply with Discord’s Developer Policy, Developer Terms, and App Directory content policies where applicable.​
+
+No endorsement: The Bots are community tools and are not endorsed by or affiliated with Discord, and must be used consistent with Discord’s policies.​
+
+Prohibited uses: Do not use the Bots to violate laws, infringe rights, harass others, distribute malware, conduct spam/raids, or otherwise breach Discord’s Community Guidelines.​
+
+Message content and data: If a Bot processes message content or other privileged data, it does so only for disclosed features and in accordance with Discord’s Message Content Intent Review Policy.​
+
+Server compliance: Server owners and administrators are responsible for ensuring Bot usage on their servers complies with these Terms and Discord’s policies.​
+
+Availability: Features may change, be rate limited, or become unavailable due to Discord API changes, outages, or maintenance.​
+
+Modifications: GuikiPT may update these Terms to reflect product, legal, or policy changes, and continued use after an update constitutes acceptance.​
+
+Termination: GuikiPT may suspend or terminate Bot access to protect users, comply with law, or respond to Discord policy requirements.​
+
+Liability: The Bots are provided “as is” without warranties, and GuikiPT is not liable for indirect or consequential damages to the extent allowed by law.​
+
+Indemnity: You agree to indemnify GuikiPT for claims arising from your unlawful or policy‑violating use of the Bots.​
+
+Governing terms and conflicts: If these Terms conflict with Discord’s platform rules, Discord’s terms and policies govern your platform use.​
+
+Privacy: Bot data practices are described in the Privacy Policy below, which is incorporated into these Terms.​
+
+Contact: For questions or requests, contact GuikiPT via the channels provided in the Privacy Policy’s Contact section.
