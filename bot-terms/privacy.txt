@@ -1,0 +1,96 @@
+Effective Date: October 17, 2025​
+
+Overview: This Privacy Policy explains what data GuikiPT Bots process, how and why it is used, and your rights under applicable laws such as GDPR in the EEA and UK and CCPA/CPRA in California, as applicable.​
+
+Controller: For Bot operations described here, GuikiPT is the data controller for processing that determines purposes and means.​
+
+What data may be processed
+
+Discord identifiers: user IDs, server IDs, channel IDs, role IDs, and interaction IDs, to operate commands, permissions, and features.​
+
+Usage metadata: timestamps, command usage, and technical logs for reliability, security, and abuse mitigation.​
+
+Message content: only if a feature explicitly needs it and only where Discord policies and intents allow, with clear disclosures.​
+
+Configuration data: server settings for features such as moderation rules, prefixes, or integrations.​
+
+Purposes of processing
+
+Provide core features, moderation tools, and server automations as requested by server admins and users.​
+
+Maintain security, prevent abuse, and comply with Discord policy requirements and rate limits.​
+
+Improve reliability and functionality through aggregated, minimal usage analytics where permitted.​
+
+Comply with legal obligations and enforce terms and platform rules.​
+
+Legal bases (GDPR, where applicable)
+
+Performance of a contract: to provide requested Bot features and interactions.​
+
+Legitimate interests: to maintain security, prevent abuse, and improve services in privacy‑protective ways.​
+
+Consent: where required for specific optional features, especially those involving message content.​
+
+Legal obligations: when processing is required by law or to respond to lawful requests.​
+
+Data sharing
+
+Discord: Processing occurs within the Discord platform and APIs as necessary to provide features.​
+
+Service providers: If used, providers are bound by contracts to process data only for instructed purposes.​
+
+Legal: Data may be disclosed to comply with law, protect users, or enforce terms, only as necessary.​
+
+Retention
+
+Configuration data persists while the feature is enabled and is deleted upon removal or reasonable inactivity.​
+
+Logs and minimal metadata are kept for a limited duration necessary for security, debugging, and abuse prevention, then deleted or anonymized.​
+
+Message content, if processed, is not stored longer than necessary for the feature’s operation unless disclosure is required by law or platform rules.​
+
+Security
+
+Technical and organizational measures are used to limit access, reduce data volume, and protect against unauthorized processing, appropriate to risk.​
+
+International transfers
+
+When data moves across regions, transfer mechanisms recognized under GDPR are applied where required.​
+
+Your rights
+
+GDPR: access, rectification, erasure, restriction, objection, and portability subject to legal limits.​
+
+CCPA/CPRA: right to know, delete, correct, and opt out of certain sharing or sales of personal information where applicable.​
+
+Requests: See Contact to submit a request; verification may be required to protect user accounts.​
+
+Children’s privacy
+
+GuikiPT Bots are for Discord’s permitted users only and are not directed to children under the age required by Discord’s terms, and parental consent is required where applicable by law.​
+
+If a child’s data is discovered to be collected contrary to law, it will be deleted with reasonable efforts and access to features may be disabled.​
+
+Message content intent and transparency
+
+If a Bot requires message content, the feature will be disclosed, configured to the minimum scope, and used consistent with Discord’s Message Content Intent Review Policy.​
+
+Where consent or server‑level opt‑in is required, features will only activate after appropriate authorization.​
+
+Changes to this policy
+
+This policy may be updated for product, legal, or platform changes, and continued use after updates indicates acknowledgment of the new terms.​
+
+Contact
+
+Data controller: GuikiPT.​
+
+Contact: Use the contact method provided in the Bot’s profile or linked policy pages to submit privacy or rights requests.​
+
+Publishing tips
+Host these pages on a simple site or repository and add links in the Discord Developer Portal settings and, if applicable, App Directory listing fields.​
+
+Ensure the text accurately reflects actual data flows, especially if any feature uses message content or other privileged intents.​
+
+If you serve users in the EU/UK or California, keep the rights sections active and be prepared to process requests under GDPR and CCPA/CPRA.
