@@ -44,7 +44,7 @@
     <p>
         Hello, I'm <b>Luis Freitas</b> (but everyone call me <b>GuikiPT</b>, or my other GitHub work profile <b><a href="https://github.com/LuisHFF/LuisHFF">LuisHFF</a></b>).
         <br>
-        I'm from and currently living in <b>Portugal</b>. I'm <b>21 years old</b> (22/08/2003) and I finished <b>High School (12º Degree)</b> with learning at <b>HTML + CSS and some JavaScript, C, PHP and MySQL.</b>
+        I'm from and currently living in <b>Portugal</b>. I'm <b>22 years old</b> (22/08/2003) and I finished <b>High School (12º Degree)</b> with learning at <b>HTML + CSS and some JavaScript, C, PHP and MySQL.</b>
     </p>
     <p>
         Currently I work with <b><a href="https://www.odoo.com/">Odoo ERP</a></b>, creating some modules/apps (coded on <b>Python</b>, <b>XML</b> and <b>PostgresSQL</b>) based on requirements where customers want features or adaptations that Odoo does not support, and my current workplace and I create them.
