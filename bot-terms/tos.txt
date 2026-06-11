@@ -1,33 +1,589 @@
-Terms of Service — GuikiPT Bots
-Effective Date: October 17, 2025​
-Scope: These Terms apply to any Discord application or automation owned and operated by GuikiPT that runs on the Discord platform (collectively, “Bots”).​
+GUIKIPT BOTS TERMS OF SERVICE
 
-Acceptance: By inviting or using any GuikiPT Bot, you agree to these Terms, Discord’s Terms of Service, and Discord’s Community Guidelines.​
+Effective Date: October 17, 2025
+Last Updated: June 11, 2026
 
-Eligibility: You must meet Discord’s minimum age and regional eligibility requirements to use Discord and any GuikiPT Bot.​
+1. OVERVIEW
 
-Platform rules: Your use of the Bots must comply with Discord’s Developer Policy, Developer Terms, and App Directory content policies where applicable.​
+These Terms of Service explain the rules for using any Discord bot, Discord application, automation, dashboard, API, website, or related service owned or operated by GuikiPT Bots.
 
-No endorsement: The Bots are community tools and are not endorsed by or affiliated with Discord, and must be used consistent with Discord’s policies.​
+In this document, “GuikiPT Bots”, “the Bot”, “Bots”, “we”, “us”, or “our” refers to Discord applications and related services operated by GuikiPT.
 
-Prohibited uses: Do not use the Bots to violate laws, infringe rights, harass others, distribute malware, conduct spam/raids, or otherwise breach Discord’s Community Guidelines.​
+By inviting, configuring, accessing, or using any GuikiPT Bot, you agree to follow these Terms.
 
-Message content and data: If a Bot processes message content or other privileged data, it does so only for disclosed features and in accordance with Discord’s Message Content Intent Review Policy.​
+If you do not agree with these Terms, you must not use the Bots and should remove them from any Discord server you manage.
 
-Server compliance: Server owners and administrators are responsible for ensuring Bot usage on their servers complies with these Terms and Discord’s policies.​
+2. SCOPE
 
-Availability: Features may change, be rate limited, or become unavailable due to Discord API changes, outages, or maintenance.​
+These Terms apply to any Discord application, bot, automation, dashboard, API, website, or related service operated under GuikiPT Bots.
 
-Modifications: GuikiPT may update these Terms to reflect product, legal, or policy changes, and continued use after an update constitutes acceptance.​
+This includes, but is not limited to:
 
-Termination: GuikiPT may suspend or terminate Bot access to protect users, comply with law, or respond to Discord policy requirements.​
+* Discord slash commands
+* Prefix commands
+* Message commands
+* User commands
+* Buttons
+* Select menus
+* Modals
+* Automod features
+* Moderation features
+* Logging features
+* Tag or custom command systems
+* Ticket or support systems
+* Dashboard features
+* WebSocket or API integrations
+* Premium or paid features, if offered
+* AI-based features, if offered
+* Any other feature provided by GuikiPT Bots
 
-Liability: The Bots are provided “as is” without warranties, and GuikiPT is not liable for indirect or consequential damages to the extent allowed by law.​
+Some individual Bots or services may have extra rules, notices, or feature-specific terms. If extra terms are provided, they also apply to that specific Bot or feature.
 
-Indemnity: You agree to indemnify GuikiPT for claims arising from your unlawful or policy‑violating use of the Bots.​
+3. ACCEPTANCE OF TERMS
 
-Governing terms and conflicts: If these Terms conflict with Discord’s platform rules, Discord’s terms and policies govern your platform use.​
+By using GuikiPT Bots, you agree to:
 
-Privacy: Bot data practices are described in the Privacy Policy below, which is incorporated into these Terms.​
+* These Terms of Service
+* Discord’s Terms of Service
+* Discord’s Community Guidelines
+* Discord’s Developer Terms
+* Discord’s Developer Policy
+* Any Discord App Directory rules or content policies, where applicable
+* Any server rules of the Discord server where the Bot is used
 
-Contact: For questions or requests, contact GuikiPT via the channels provided in the Privacy Policy’s Contact section.
+If you use the Bot on behalf of a Discord server, community, organization, or other group, you confirm that you have permission to do so.
+
+4. ELIGIBILITY
+
+You may only use GuikiPT Bots if you are allowed to use Discord under Discord’s own terms and applicable law.
+
+You must meet Discord’s minimum age requirements and any regional eligibility requirements that apply to your location.
+
+If you are not allowed to use Discord, you are not allowed to use GuikiPT Bots.
+
+5. RELATIONSHIP WITH DISCORD
+
+GuikiPT Bots are community tools built for use on Discord.
+
+GuikiPT Bots are not created, owned, operated, sponsored, approved, or endorsed by Discord unless explicitly stated otherwise.
+
+Discord is a separate platform with its own rules, terms, policies, systems, outages, limitations, and enforcement decisions.
+
+If these Terms conflict with Discord’s platform rules, Discord’s terms and policies control your use of Discord and the Discord API.
+
+6. SERVER OWNER AND ADMINISTRATOR RESPONSIBILITIES
+
+Server owners, administrators, and staff members are responsible for how GuikiPT Bots are configured and used inside their Discord servers.
+
+Server owners and administrators are responsible for:
+
+* Inviting the Bot only where they have permission to do so
+* Giving the Bot only the permissions needed for intended features
+* Configuring moderation, logging, automod, and message-processing features responsibly
+* Informing server members when logging, automod, moderation, AI, or message-processing features are enabled
+* Making sure Bot usage follows Discord rules and applicable laws
+* Reviewing Bot permissions regularly
+* Removing the Bot if it is no longer needed
+* Handling server member questions about server-specific Bot usage
+* Avoiding unnecessary collection, logging, or exposure of user data
+
+GuikiPT is not responsible for server rules, server staff decisions, or how server administrators choose to configure the Bot.
+
+7. USER RESPONSIBILITIES
+
+Users agree to use GuikiPT Bots responsibly.
+
+You must not use the Bots to:
+
+* Break Discord’s Terms of Service
+* Break Discord’s Community Guidelines
+* Break Discord’s Developer Policy
+* Break any applicable law or regulation
+* Harass, threaten, abuse, or target others
+* Spam, raid, mass mention, or disrupt servers
+* Distribute malware, phishing links, scams, or harmful content
+* Attempt to steal accounts, tokens, credentials, or private information
+* Bypass moderation, permissions, rate limits, or security systems
+* Exploit bugs or vulnerabilities
+* Abuse Bot commands or automation features
+* Interfere with the Bot’s normal operation
+* Use the Bot to collect data without proper notice or permission
+* Use the Bot to secretly monitor users
+* Use the Bot to impersonate GuikiPT, Discord, or another person
+* Use the Bot for illegal, harmful, deceptive, or abusive activity
+
+Use of the Bots must remain consistent with Discord’s platform rules and the rules of the server where the Bot is used.
+
+8. PROHIBITED CONTENT AND ACTIVITY
+
+You must not use GuikiPT Bots to create, distribute, automate, store, promote, or assist with content or activity involving:
+
+* Illegal activity
+* Harassment or targeted abuse
+* Hate speech or discrimination
+* Threats or incitement of violence
+* Sexual content involving minors
+* Exploitation or abuse of minors
+* Malware, phishing, scams, or credential theft
+* Spam, raids, or platform manipulation
+* Doxxing or sharing private personal information
+* Unauthorized surveillance or tracking
+* Self-harm encouragement
+* Evading bans, mutes, or moderation systems
+* Copyright infringement or intellectual property abuse
+* Any content or activity prohibited by Discord
+
+GuikiPT may disable access, block servers, remove features, or report abuse where necessary.
+
+9. BOT PERMISSIONS
+
+Some Bot features require Discord permissions to work correctly.
+
+Depending on the enabled features, the Bot may need permissions including:
+
+* View Channels
+* Send Messages
+* Manage Messages
+* Manage Roles
+* Moderate Members
+* Kick Members
+* Ban Members
+* Manage Channels
+* Manage Threads
+* Read Message History
+* Use Application Commands
+* Attach Files
+* Embed Links
+* Add Reactions
+* Manage Webhooks
+* Administrator, if server admins choose to grant it
+
+Server administrators are responsible for reviewing and approving the permissions they grant to the Bot.
+
+GuikiPT recommends granting only the permissions needed for the features being used.
+
+10. COMMANDS AND AUTOMATION
+
+GuikiPT Bots may provide commands, automations, and server tools.
+
+These may include:
+
+* Moderation commands
+* Automod actions
+* Logging systems
+* Tags or custom responses
+* Utility commands
+* Server configuration commands
+* Ticket or support commands
+* Dashboard actions
+* Scheduled tasks
+* Integration commands
+* AI-based commands, if enabled
+* Other server automation features
+
+Commands and automated actions may affect users, messages, channels, roles, server settings, or logs depending on the permissions granted to the Bot.
+
+Server staff are responsible for using these tools carefully.
+
+11. MODERATION FEATURES
+
+Some Bots may provide moderation features, including:
+
+* Warnings
+* Mutes or timeouts
+* Kicks
+* Bans
+* Message deletion
+* Automod detections
+* Anti-spam systems
+* Anti-raid systems
+* User notes
+* Case logs
+* Mod logs
+* Appeal or report handling
+
+GuikiPT Bots provide tools to help server staff moderate communities, but they do not replace human judgment.
+
+GuikiPT is not responsible for moderation decisions made by server staff using the Bot.
+
+Server administrators are responsible for ensuring moderation actions are fair, lawful, and consistent with Discord’s rules.
+
+12. AUTOMOD AND SAFETY SYSTEMS
+
+Automod and safety features may detect, flag, delete, log, or act on content based on configured rules.
+
+These systems may not always be perfect.
+
+Automod may:
+
+* Miss harmful content
+* Incorrectly flag harmless content
+* Require staff review
+* Depend on server configuration
+* Depend on Discord API availability
+* Depend on permissions granted to the Bot
+
+Server staff should review automod settings and should not rely only on automation for important moderation decisions.
+
+13. MESSAGE CONTENT AND PRIVILEGED INTENTS
+
+Some features may require access to message content or other privileged Discord data.
+
+Message content may be used for features including:
+
+* Prefix commands
+* Moderation
+* Automod
+* Spam detection
+* Scam detection
+* Message logging
+* Deleted or edited message logs
+* Tags or custom responses
+* Ticket systems
+* Support features
+* AI features, if enabled
+* Context-aware commands
+
+GuikiPT Bots only process message content where needed for enabled features and where allowed by Discord.
+
+Where possible, the Bots use Discord interaction systems instead, including:
+
+* Slash commands
+* Buttons
+* Select menus
+* Modals
+* Context menu commands
+* Autocomplete
+
+Message content must not be used to abuse, harass, secretly monitor, or unlawfully collect information about users.
+
+14. DASHBOARD AND WEB SERVICES
+
+Some GuikiPT Bots may provide a dashboard, website, API, or other web-based service.
+
+When using a dashboard or web service, you agree not to:
+
+* Access servers you do not have permission to manage
+* Bypass authentication or authorization checks
+* Abuse API routes
+* Attempt to overload, scan, attack, or exploit the service
+* Use stolen Discord accounts or credentials
+* Modify settings without permission
+* Interfere with other users or servers
+* Attempt to access private data that does not belong to you
+
+Dashboard access may depend on your Discord account, server permissions, OAuth2 authorization, and Bot access to the server.
+
+15. INTEGRATIONS AND THIRD-PARTY SERVICES
+
+Some features may connect with third-party services, websites, APIs, game servers, payment providers, or other external systems.
+
+By enabling an integration, you understand that:
+
+* The integration may depend on a third-party service
+* Third-party outages may affect the feature
+* Third-party terms and privacy policies may apply
+* GuikiPT does not control third-party services
+* The feature may stop working if the third-party service changes its API
+* Server administrators are responsible for configuring integrations correctly
+
+GuikiPT is not responsible for third-party content, outages, errors, or policy changes.
+
+16. AI FEATURES
+
+Some GuikiPT Bots may include AI-based features.
+
+AI features may generate inaccurate, incomplete, inappropriate, or unexpected output.
+
+You agree that AI output:
+
+* May be wrong
+* Should be reviewed before being trusted
+* Should not be treated as legal, medical, financial, or professional advice
+* Should not be used to make important decisions without human review
+* May depend on third-party AI providers, if used
+* May be limited, changed, disabled, or rate limited
+
+You must not use AI features to:
+
+* Harass, threaten, or abuse others
+* Generate illegal or harmful content
+* Generate malware, phishing, scams, or credential theft content
+* Evade moderation
+* Collect private information
+* Violate Discord rules
+* Violate applicable law
+
+Unless clearly disclosed otherwise, message content is not used to train AI models.
+
+17. PREMIUM FEATURES, PAYMENTS, AND SUBSCRIPTIONS
+
+Some GuikiPT Bots may offer premium, paid, subscription, donation-based, or supporter-only features.
+
+If premium features are offered, they may be provided through:
+
+* Discord monetization
+* A third-party payment provider
+* A private arrangement
+* Another supported payment or entitlement system
+
+Premium access may depend on:
+
+* Successful payment
+* Active subscription status
+* Discord entitlements
+* Server subscription status
+* User subscription status
+* Manual approval
+* Payment provider availability
+
+Unless stated otherwise:
+
+* Premium features may change over time
+* Premium features are not guaranteed to remain available forever
+* Payments may be handled by a third-party provider
+* Refunds depend on the payment provider, platform rules, and applicable law
+* GuikiPT may revoke premium access for abuse, fraud, chargebacks, policy violations, or misuse
+
+GuikiPT does not intentionally store full payment card numbers or bank details.
+
+18. REFUNDS
+
+Refund availability depends on the payment method, payment provider, platform rules, and applicable law.
+
+Refunds may be refused where:
+
+* The premium service was already provided
+* The request violates provider rules
+* Abuse or fraud is suspected
+* Access was terminated for violating these Terms
+* The payment provider does not allow the refund
+* The refund request is outside the allowed period
+
+Nothing in these Terms limits consumer rights that cannot legally be waived.
+
+19. AVAILABILITY AND CHANGES
+
+GuikiPT Bots are provided as available.
+
+Features may be changed, limited, disabled, replaced, or removed at any time.
+
+Availability may be affected by:
+
+* Discord outages
+* Discord API changes
+* Discord rate limits
+* Hosting provider issues
+* Database issues
+* Maintenance
+* Security incidents
+* Abuse prevention
+* Feature updates
+* Legal or policy requirements
+* Third-party service outages
+
+GuikiPT does not guarantee that the Bots will always be online, error-free, secure, or available.
+
+20. RATE LIMITS AND ABUSE PREVENTION
+
+GuikiPT may apply limits to protect the Bots and users.
+
+Limits may include:
+
+* Command cooldowns
+* API rate limits
+* Feature limits
+* Server limits
+* User limits
+* Dashboard limits
+* Premium plan limits
+* Anti-spam protections
+* Temporary blocks
+* Permanent blocks
+
+Attempting to bypass limits, overload systems, spam commands, or abuse automation may result in restricted access or termination.
+
+21. SECURITY AND VULNERABILITIES
+
+You must not attempt to exploit, attack, reverse engineer, disrupt, or gain unauthorized access to GuikiPT Bots or related systems.
+
+You must not:
+
+* Attempt to access private databases
+* Attempt to access private APIs
+* Attempt to bypass authentication
+* Attempt to bypass permission checks
+* Abuse bugs or vulnerabilities
+* Run automated attacks
+* Use the Bot to attack Discord or other services
+* Share exploit methods publicly before reporting them responsibly
+
+If you find a security issue, report it to:
+
+[guikipt@guiki.pt](mailto:guikipt@guiki.pt)
+
+Do not abuse the issue or access data that does not belong to you.
+
+22. PRIVACY
+
+GuikiPT Bots may process data as needed to operate bot features, moderation tools, dashboards, integrations, security systems, and support.
+
+Privacy-related information is provided in a separate Privacy Policy.
+
+The Privacy Policy explains what data may be processed, why it may be processed, how long it may be retained, and how users may contact GuikiPT about privacy or deletion requests.
+
+23. USER CONTENT
+
+Users and server administrators are responsible for the content they create, send, configure, upload, or automate through GuikiPT Bots.
+
+User content may include:
+
+* Messages
+* Command inputs
+* Tags
+* Custom commands
+* Automod rules
+* Server settings
+* Ticket content
+* Uploaded files
+* Integration content
+* AI prompts, if AI features are enabled
+
+You must only submit content that you have the right to use.
+
+You must not submit content that violates Discord rules, applicable law, intellectual property rights, privacy rights, or these Terms.
+
+24. INTELLECTUAL PROPERTY
+
+GuikiPT Bots, including their code, branding, design, systems, dashboards, documentation, and related materials, are owned by GuikiPT or their respective rights holders.
+
+You may not copy, resell, redistribute, reverse engineer, or claim ownership of GuikiPT Bots or related materials unless you have permission.
+
+Using the Bot does not give you ownership of the Bot, its code, its name, its branding, or its systems.
+
+Discord, Discord logos, and Discord-related names belong to Discord or its respective owners.
+
+25. FEEDBACK AND SUGGESTIONS
+
+If you submit feedback, bug reports, ideas, suggestions, or feature requests, GuikiPT may use them to improve the Bots without owing compensation or credit.
+
+You should not submit confidential information as feedback unless GuikiPT specifically agrees to receive it.
+
+26. TERMINATION AND RESTRICTION OF ACCESS
+
+GuikiPT may suspend, restrict, block, or terminate access to the Bots at any time if necessary.
+
+Reasons may include:
+
+* Violation of these Terms
+* Violation of Discord rules
+* Abuse, spam, raids, or harassment
+* Security risks
+* Fraud or payment abuse
+* Attempts to exploit the Bot
+* Legal requirements
+* Discord policy requirements
+* Harm to users, servers, Discord, GuikiPT, or third parties
+* Removal of the Bot from a server
+* Discontinuation of a feature or service
+
+Termination may apply to:
+
+* A user
+* A server
+* A feature
+* A dashboard account
+* A premium subscription
+* An integration
+* The entire Bot service
+
+GuikiPT is not required to provide advance notice before restricting access where immediate action is needed.
+
+27. DISCLAIMERS
+
+GuikiPT Bots are provided “as is” and “as available”.
+
+To the maximum extent allowed by law, GuikiPT makes no warranties that:
+
+* The Bots will always be available
+* The Bots will be error-free
+* The Bots will be secure from all possible issues
+* The Bots will meet every user or server requirement
+* The Bots will always work with Discord API changes
+* The Bots will always detect harmful content
+* The Bots will always prevent spam, raids, abuse, or moderation issues
+* AI or automated features will always be accurate
+
+You use the Bots at your own risk.
+
+28. LIMITATION OF LIABILITY
+
+To the maximum extent allowed by law, GuikiPT is not liable for indirect, incidental, special, consequential, exemplary, or punitive damages.
+
+This includes damages related to:
+
+* Lost profits
+* Lost data
+* Lost server activity
+* Lost access
+* Discord account actions
+* Server moderation decisions
+* Bot downtime
+* Feature changes
+* API failures
+* Third-party service failures
+* Unauthorized server configurations
+* User misuse
+* AI-generated output
+* Security incidents outside GuikiPT’s reasonable control
+
+Nothing in these Terms excludes liability that cannot legally be excluded.
+
+29. INDEMNITY
+
+You agree to defend, indemnify, and hold harmless GuikiPT from claims, damages, losses, liabilities, costs, and expenses arising from:
+
+* Your use or misuse of the Bots
+* Your violation of these Terms
+* Your violation of Discord rules
+* Your violation of applicable law
+* Your content or configurations
+* Your server’s use of the Bot
+* Your infringement of rights belonging to others
+* Your abuse of integrations, dashboards, APIs, or automation features
+
+This applies to the extent allowed by law.
+
+30. GOVERNING TERMS AND CONFLICTS
+
+These Terms apply to your use of GuikiPT Bots.
+
+Your use of Discord is also governed by Discord’s own terms, policies, and rules.
+
+If these Terms conflict with Discord’s platform rules, Discord’s terms and policies govern your use of Discord and the Discord API.
+
+If any part of these Terms is found invalid or unenforceable, the rest of the Terms remain in effect.
+
+31. CHANGES TO THESE TERMS
+
+GuikiPT may update these Terms from time to time to reflect:
+
+* Feature changes
+* Legal changes
+* Discord policy changes
+* Security requirements
+* Business changes
+* Service updates
+* Clarifications or improvements
+
+When significant changes are made, reasonable notice may be provided through the Bot profile, support server, dashboard, website, or other appropriate channels.
+
+Continued use of GuikiPT Bots after changes means you accept the updated Terms.
+
+32. CONTACT
+
+For questions, support requests, legal notices, security reports, or Terms-related requests, contact GuikiPT at:
+
+[guikipt@guiki.pt](mailto:guikipt@guiki.pt)
+
+When contacting GuikiPT, include enough information to understand your request, such as your Discord user ID, server ID, Bot name, and a clear explanation of the issue.
